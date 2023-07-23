@@ -127,7 +127,6 @@ body {
       .container{
         position: relative; /* 將 position 設置為 relative */
         justify-content: center;
-        border: 1px solid black;
       }
       .show-status {
         position: fixed;
@@ -137,7 +136,6 @@ body {
         padding: 0 16px;
         margin: 0;
         top: 10px;
-        border: 1px solid black;
       }
     
       .my-status {
